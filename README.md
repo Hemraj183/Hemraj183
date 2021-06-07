@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with my CNN research.
 - 💬 Ask me about machine learning, OpenCV or deep learning.
 - 📫 How to reach me: np05cp4a190064@iic.edu.np
-- ⚡ Fun fact: I finish watching big bang theory 12 seasons in 1 week.😀😅
+- ⚡ Fun fact: I finished watching big bang theory 12 seasons in 1 week.😀😅
 
