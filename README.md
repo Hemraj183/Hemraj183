@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on AI projects and AI research.
 - 🤔 I’m looking for help with my CNN research.
 - 💬 Ask me about machine learning, OpenCV or deep learning.
-- 📫 How to reach me: np05cp4a190064@iic.edu.np
+- 📫 How to reach me: hemrajdhakal.ml@gmail.com
 - ⚡ Fun fact: I finished watching big bang theory 12 seasons in 1 week.😀😅
 
 <h3 align="left">Connect with me:</h3>
