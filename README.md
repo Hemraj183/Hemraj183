@@ -24,7 +24,7 @@
   
 <a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
 <a href="https://www.instagram.com/hemraj1267" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="Hemraj183" /></a>
-<a href="https://www.hackerrank.com/hemrajdhakal_ml" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hemraj183" /></a>
+<a href="https://www.hackerrank.com/hemrajdhakal_ml" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hemraj183" /></a><br>
 <a href="mailto:hemrajdhakal.ml@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a>
 </p>
 
