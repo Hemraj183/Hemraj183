@@ -34,7 +34,6 @@
 <a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a>
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
