@@ -31,8 +31,7 @@
 <a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
 <a href="https://www.instagram.com/hemraj1267" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=appveyor&logo=Instagram&logoColor=white" alt="Hemraj183" /></a>
 <a href="https://www.hackerrank.com/hemrajdhakal_ml" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hemraj183" /></a>
-<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a>
-</p>
+<a href="mailto:hemrajdhakal.ml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hemraj183" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
