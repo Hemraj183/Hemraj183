@@ -1,11 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">I'm Hemaraj Dhakal</h2>
 <h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer and Student</h3>
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemraj183&label=Profile%20views&color=0e75b6&style=flat" alt="Hemraj183" /> </p>
@@ -51,7 +47,6 @@
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/> 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/> </p>
-
 <p align="center">	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hemraj183&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemraj183&theme=tokyonight" />
@@ -61,3 +56,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemraj183&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
   <img width="48%" height="190" src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
+  
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
