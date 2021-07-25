@@ -19,7 +19,6 @@
 - 📫 How to reach me: hemrajdhakal.ml@gmail.com
 - ⚡ Fun fact: You may get AI girlfriend by the 2030😀😅
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
