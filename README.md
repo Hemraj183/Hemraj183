@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://www.facebook.com/hemraj.dhakal.357/" target="blank"><img src="https://img.shields.io/badge/Facebook-Contact%20me-blue" alt="Hemraj183" /></a> <a href="https://drive.google.com/file/d/10PSImCCs1jK58jqrJwb2MKoPokSVqiqZ/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Hemraj183" /></a> </p>
 
-
 - 🔭 I’m currently working on machine learning, computer vision and deep learning projects.
 - 🌱 I’m currently learning deep learning and Natural Language Processing.
 - 👯 I’m looking to collaborate on AI projects and AI research.
