@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,</h1>
 
 <h2 align="center">I'm Hemaraj Dhakal</h2>
-<h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer and Student</h3>
+<h3 align="center">A Passionate Self Taught Artificial Intelligence Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hemraj183&label=Profile%20views&color=0e75b6&style=flat" alt="Hemraj183" /> </p>
 
@@ -17,7 +17,6 @@
 - 🤔 I’m looking for help with my Deep Learning research.
 - 💬 Ask me about machine learning, OpenCV or deep learning.
 - 📫 How to reach me: hemrajdhakal.ml@gmail.com
-- ⚡ Fun fact: You may get AI girlfriend by the 2030😀😅
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hemaraj-dhakal-155b1b1a7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
